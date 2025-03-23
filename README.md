@@ -5,7 +5,7 @@ Documentation is available on <a href="https://zendistributed.github.io/starter"
 </p>
 
 <p align="center">
-<a href="https://github.com/ZenDistributed/Starter/actions/workflows/build.yml"><img src="https://github.com/ZenDistributed/Starter/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+<a href="https://github.com/ZenDistributed/Starter/actions/workflows/build.yml"><img src="https://github.com/ZenDistributed/Starter/actions/workflows/build.yml/badge.svg" alt="CI"></a>
 <a href="https://codecov.io/gh/ZenDistributed/Starter"><img src="https://codecov.io/gh/ZenDistributed/Starter/branch/master/graph/badge.svg?token=MA36ZL1TI5" alt="Coverage"></a>
 </p>
 
