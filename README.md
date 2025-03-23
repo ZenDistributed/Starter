@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zend.iantorres.cl" target="_blank"><img src="./logo.png" width="512" alt="Strong"></a></p>
+<p align="center"><a href="https://zend.iantorres.cl" target="_blank"><img src="./logo.png" width="512" alt="Zend"></a></p>
 
 <p align="center"  style="margin-bottom: 50px;">
 Documentation is available on <a href="https://zendistributed.github.io/starter" target="_blank"><strong>GitHub Pages</strong></a>.
